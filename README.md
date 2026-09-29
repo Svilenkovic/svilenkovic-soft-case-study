@@ -2,7 +2,7 @@
 
 A business software site that follows real work from the first request through records, status and completion.
 
-**[svilenkovicsoft.com](https://svilenkovicsoft.com/)** · [Srpski](README.sr.md)
+**[svilenkovicsoft.com](https://svilenkovicsoft.com/)** · [AutoSet Niš case study](https://svilenkovicsoft.com/en/case-studies/autoset-workflow-and-inventory/) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
@@ -10,7 +10,7 @@ A business software site that follows real work from the first request through r
 <table>
   <tr><td><b>Type</b></td><td>Business applications</td></tr>
   <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>14 canonical pages</td></tr>
+  <tr><td><b>Public routes</b></td><td>16 canonical pages</td></tr>
   <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
   <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
