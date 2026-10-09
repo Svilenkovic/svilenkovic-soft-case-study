@@ -1,42 +1,58 @@
+<a href="https://svilenkovicsoft.com/"><img src="media/cover.jpg" alt="Svilenković Soft, naslovna strana na laptopu i telefonu" width="100%"></a>
+
 # Svilenković Soft
 
-Poslovne aplikacije.
+Sajt o poslovnim aplikacijama koji prati jedan posao od prvog upita do evidencije, uz demo radnog naloga sa izmišljenim podacima.
 
-**[svilenkovicsoft.com](https://svilenkovicsoft.com/)** · [Studija: AutoSet Niš](https://svilenkovicsoft.com/studije/autoset-radni-tok-i-lager/) · [English](README.md)
+**[svilenkovicsoft.com](https://svilenkovicsoft.com/)** · [Studija slučaja](https://svilenkovic.rs/radovi/svilenkovic-soft) · [English](README.md)
 
 > [!NOTE]
-> Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
+> Moj sopstveni projekat, ne klijentski posao. Izvorni kod je privatan. Ova stranica opisuje šta sajt radi i kako je napravljen.
 
 <table>
-  <tr><td><b>Vrsta</b></td><td>Poslovne aplikacije</td></tr>
-  <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>16 canonical stranica</td></tr>
-  <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Klijent</b></td><td>Sopstveni projekat</td></tr>
+  <tr><td><b>Delatnost</b></td><td>Poslovne aplikacije po meri</td></tr>
+  <tr><td><b>Lokacija</b></td><td>Srbija</td></tr>
+  <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
+  <tr><td><b>Moj deo posla</b></td><td>Istraživanje, dizajn, izrada, SEO i hosting</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>Astro 7, TypeScript, GSAP, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Namena
+## O projektu
 
-Poslovni softver treba da prati posao koji ljudi već rade. Ovaj sajt objašnjava put od pristiglog upita do zapisa, zaduženja i vidljivog statusa, bez izmišljanja univerzalnog proizvoda.
+Aplikacija ima smisla tek kad prati redosled stvarnog posla. Zato Svilenković Soft ne počinje spiskom funkcija. Počinje pitanjem gde nastaje upit, ko preuzima zadatak i šta ostaje zabeleženo kad se posao završi.
 
-## Dizajn pravac
+Na naslovnoj upit prelazi u raspored, pa u evidenciju, dok posetilac skroluje. Posebna demo strana pokazuje kako jedan radni nalog dobija status i trag, i jasno je označena kao primer sa izmišljenim podacima, pa ne predstavlja stvarnog kupca ni stvaran rezultat. Pored ekrana stoje pitanja koja postavljam pre pisanja koda: ko šta vidi, izvoz, rezervne kopije i šta se dešava kad nešto ne uspe.
 
-Glavna scena je prostorna radna površina. Biserni paneli, kobaltne kontrole i narandžasti statusi pretvaraju upit u radni predmet tokom skrola.
+## Šta sam uradio
 
-## Šta je urađeno
+- Scena uz skrol u kojoj upit postaje zakazan zadatak, pa zapis u evidenciji
+- Demo radnog naloga sa izmišljenim podacima, tako i označen
+- Strana o tome kako proces postaje aplikacija i studija o radnom toku i lageru za AutoSet Niš
+- Sadržaj koji se bez skripti čita kao obične strane
+- Srpska i engleska verzija svake strane
 
-- Objašnjenje poslovnog softvera koje polazi od toka rada
-- Stanja za prijem, zaduženje, napredak i završetak
-- Prostorna interfejs scena koja bez skripti ostaje normalan sadržaj
-- Sedam stranica na srpskom i sedam odgovarajućih na engleskom
-- Direktan projektni upit umesto fiksnih paketa ili izmišljenih cena
+## Merenja
 
-## Provere izdanja
+| | Performanse | Pristupačnost | Dobre prakse | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Telefon | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Svaka canonical ruta proverena je na širinama 390, 768, 1440 i 1920 px. Izdanje je provereno i bez JavaScript-a i uz reduced-motion postavku. Žive provere obuhvatile su HTTPS, preusmerenja, zaglavlja odgovora, strukturirane podatke, sitemap fajlove, zaštićene putanje i neispravne kontakt zahteve bez slanja test poruka.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. Strukturisani podaci: `Organization`, `Person`.
 
-Ovo su inženjerske provere, a ne tvrdnje o poziciji u pretrazi ili terenskim performansama.
+## Snimci ekrana
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="Svilenković Soft, naslovna strana na ekranu širine 1440 px"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="Svilenković Soft, naslovna strana na telefonu"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Demo radnog naloga na živom sajtu">
+<sub>Demo radnog naloga na živom sajtu</sub>
 
 ---
 
-<sub>Dizajn i izrada: [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>
