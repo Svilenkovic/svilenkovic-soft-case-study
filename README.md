@@ -39,7 +39,7 @@ On the home page an inquiry turns into a schedule and then into a record as the 
 | Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. Structured data: `Organization`, `Person`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. Structured data: `Person`.
 
 ## Screenshots
 

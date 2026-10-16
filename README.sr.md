@@ -39,7 +39,7 @@ Na naslovnoj upit prelazi u raspored, pa u evidenciju, dok posetilac skroluje. P
 | Telefon | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. Strukturisani podaci: `Organization`, `Person`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. Strukturisani podaci: `Person`.
 
 ## Snimci ekrana
 
